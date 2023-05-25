@@ -32,17 +32,3 @@ The following libraries are required to run the code:
 6. A comparison of the original image and the sketch will be shown using matplotlib.
 
 ## Example
-
-Input Image: 'megan.jpeg'
-![Original Image](megan.jpeg)
-
-Sketch Output: 'final_image.jpg'
-![Sketch Image](final_image.jpg)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use and modify the code according to your needs.
-
-
